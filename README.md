@@ -1,4 +1,4 @@
-#Jorid Holmen 
+# Jorid Holmen 
 
-##About me:
+## About me:
 studying Applied Robotics at NMBU
